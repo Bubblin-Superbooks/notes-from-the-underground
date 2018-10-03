@@ -1,6 +1,6 @@
 {
-  "url": "http://www.gutenberg.org/files/600/600-h.zip",
-  "basename": "600-h",
+  "url": "http://www.gutenberg.org/cache/epub/600/pg600.txt",
+  "basename": "pg600",
   "START_PAGE": "5",
   "repo_url": ""
 }
